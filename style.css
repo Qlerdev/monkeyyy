@@ -1,0 +1,19 @@
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+body{
+    background-color: black;
+}
+.monkey{
+    border: 5px solid white;
+    width: 100%;
+}
+.poster{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+}
